@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Google Play game services IDs. Save this file as res/values/games-ids.xml in your project.-->
+<resources>
+    <!--app_id-->
+    <string name="app_id" translatable="false">75514257514</string>
+    <!--package_name-->
+    <string name="package_name" translatable="false">com.lazinator.sudoku</string>
+    <!--achievement Easy Start-->
+    <string name="achievement_easy_start" translatable="false">CgkI6sCAqJkCEAIQBA</string>
+    <!--achievement Novice Puzzler-->
+    <string name="achievement_novice_puzzler" translatable="false">CgkI6sCAqJkCEAIQAg</string>
+    <!--achievement Adept Puzzler-->
+    <string name="achievement_adept_puzzler" translatable="false">CgkI6sCAqJkCEAIQAw</string>
+    <!--achievement Medium Master-->
+    <string name="achievement_medium_master" translatable="false">CgkI6sCAqJkCEAIQBQ</string>
+    <!--achievement Master Puzzler-->
+    <string name="achievement_master_puzzler" translatable="false">CgkI6sCAqJkCEAIQBw</string>
+    <!--achievement Divine Puzzler-->
+    <string name="achievement_divine_puzzler" translatable="false">CgkI6sCAqJkCEAIQCQ</string>
+    <!--achievement Quick Learner-->
+    <string name="achievement_quick_learner" translatable="false">CgkI6sCAqJkCEAIQBg</string>
+    <!--achievement Teachers Pet-->
+    <string name="achievement_teachers_pet" translatable="false">CgkI6sCAqJkCEAIQCA</string>
+    <!--achievement Extreme skills-->
+    <string name="achievement_extreme_skills" translatable="false">CgkI6sCAqJkCEAIQDA</string>
+    <!--achievement Insanity-->
+    <string name="achievement_insanity" translatable="false">CgkI6sCAqJkCEAIQDQ</string>
+    <!--achievement Challenged-->
+    <string name="achievement_challenged" translatable="false">CgkI6sCAqJkCEAIQGg</string>
+    <!--achievement Experienced Puzzler-->
+    <string name="achievement_experienced_puzzler" translatable="false">CgkI6sCAqJkCEAIQGw</string>
+    <!--achievement Hard Master-->
+    <string name="achievement_hard_master" translatable="false">CgkI6sCAqJkCEAIQHA</string>
+    <!--achievement Bunny Brain-->
+    <string name="achievement_bunny_brain" translatable="false">CgkI6sCAqJkCEAIQCg</string>
+    <!--achievement Clueless-->
+    <string name="achievement_clueless" translatable="false">CgkI6sCAqJkCEAIQCw</string>
+    <!--achievement Leet-->
+    <string name="achievement_leet" translatable="false">CgkI6sCAqJkCEAIQIA</string>
+    <!--achievement Humble-->
+    <string name="achievement_humble" translatable="false">CgkI6sCAqJkCEAIQIQ</string>
+    <!--achievement Prime-->
+    <string name="achievement_prime" translatable="false">CgkI6sCAqJkCEAIQIg</string>
+    <!--achievement Teachers Assistant-->
+    <string name="achievement_teachers_assistant" translatable="false">CgkI6sCAqJkCEAIQJA</string>
+    <!--achievement Teacher-->
+    <string name="achievement_teacher" translatable="false">CgkI6sCAqJkCEAIQJQ</string>
+    <!--event Solve three insane level puzzles in one hour-->
+    <string name="event_solve_three_insane_level_puzzles_in_one_hour" translatable="false">CgkI6sCAqJkCEAIQFw</string>
+    <!--event Solve ten hard puzzles in one day-->
+    <string name="event_solve_ten_hard_puzzles_in_one_day" translatable="false">CgkI6sCAqJkCEAIQGA</string>
+    <!--event Solve five puzzles in a day-->
+    <string name="event_solve_five_puzzles_in_a_day" translatable="false">CgkI6sCAqJkCEAIQGQ</string>
+    <!--leaderboard Average Time-->
+    <string name="leaderboard_average_time" translatable="false">CgkI6sCAqJkCEAIQDw</string>
+    <!--leaderboard Average Solution Rate-->
+    <string name="leaderboard_average_solution_rate" translatable="false">CgkI6sCAqJkCEAIQEQ</string>
+    <!--leaderboard Puzzles completed-->
+    <string name="leaderboard_puzzles_completed" translatable="false">CgkI6sCAqJkCEAIQEw</string>
+    <!--leaderboard Average Hints-->
+    <string name="leaderboard_average_hints" translatable="false">CgkI6sCAqJkCEAIQFQ</string>
+    <!--leaderboard Average Combined Score-->
+    <string name="leaderboard_average_combined_score" translatable="false">CgkI6sCAqJkCEAIQFg</string>
+</resources>

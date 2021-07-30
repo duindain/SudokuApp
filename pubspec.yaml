@@ -1,0 +1,84 @@
+name: sudokuapp
+description: Simple Sudoku app
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.3+3
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  date_util: ^0.1.4
+  get_it: ^7.2.0
+  rxdart: ^0.27.1
+  flutter_spinkit: ^5.0.0
+  firebase_core: ^1.4.0
+  firebase_analytics: ^8.2.0
+  firebase_crashlytics: ^2.1.1
+  play_games: ^0.5.5
+  http: ^0.13.1
+  shared_preferences: ^2.0.5
+  uuid: ^3.0.4
+  in_app_purchase: ^1.0.6
+  mime: ^1.0.0
+  rate_my_app: ^1.1.1
+  smooth_star_rating: ^1.1.1
+  sqflite: ^2.0.0+3
+  logging: ^1.0.0
+  audioplayers: ^0.19.1
+  font_awesome_flutter: ^9.0.0
+  flutter_html: ^2.1.0
+  intl: ^0.17.0
+  flutter_email_sender: ^5.0.2
+  equatable: ^2.0.0
+  lite_rolling_switch: ^0.1.1
+  #Error on 0.5.0 stay at 0.4.0
+  flutter_colorpicker: ^0.4.0
+  fluttertoast: ^8.0.6
+  supercharged: ^2.0.0
+  #sa_multi_tween: ^1.1.1
+  simple_animations: ^3.1.1
+  flutter_shapes: ^0.2.1
+  charts_flutter: ^0.10.0
+  carousel_slider: ^4.0.0
+  flutter_launcher_icons: ^0.9.0
+  ninja_prime: ^2.0.0
+  spritewidget: ^0.9.24
+  text_to_path_maker: ^0.5.9
+  flutter_svg: ^0.22.0
+
+#dependency_overrides:
+#  flutter_svg: ^0.19.2+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/Sudoku-Icon_1024.png"
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sounds/UI/
+    - assets/sounds/GameState/Lose/
+    - assets/sounds/GameState/Win/
+    - assets/sounds/Ambient/
+    - assets/puzzles/
+    - assets/images/
+    - assets/fonts/
+
+  fonts:
+      - family: Roboto
+        fonts:
+          - asset: assets/fonts/Roboto-Black.ttf
+

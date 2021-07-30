@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429281849698",
+    "firebase_url": "https://sudokuapp-6c800.firebaseio.com",
+    "project_id": "sudokuapp-6c800",
+    "storage_bucket": "sudokuapp-6c800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429281849698:android:8b6533c4f268a7fc427c3b",
+        "android_client_info": {
+          "package_name": "com.lazinator.sudoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429281849698-htkc8advo7apmlg3ud57ohuus5uq8il6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazinator.sudoku",
+            "certificate_hash": "c01e6169e93dd04be2908cf7c7463caa5081c9e3"
+          }
+        },
+        {
+          "client_id": "429281849698-tm4dk87078r4o2n5v8lovskvg6dkgq4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXp4rbCxmlD8o7MKeY94Wc-VkBYZsCpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429281849698-tm4dk87078r4o2n5v8lovskvg6dkgq4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
